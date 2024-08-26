@@ -1,0 +1,16 @@
+{
+    "today": 500521,
+    "yesterday": 480521,
+    "week": 4805121,
+    "metrics": [
+      { "label": "Наличные", "today": 300000, "yesterday": 300000, "week": 0 },
+      { "label": "Безналичный расчет", "today": 100000, "yesterday": 100000, "week": 0 },
+      { "label": "Кредитные карты", "today": 100521, "yesterday": 100521, "week": 0 },
+      { "label": "Средний чек, руб", "today": 0, "yesterday": 0, "week": 0 },
+      { "label": "Средний гость, руб", "today": 0, "yesterday": 0, "week": 0 },
+      { "label": "Удаления из чека (после оплаты), руб", "today": 1300, "yesterday": 1300, "week": 0 },
+      { "label": "Количество чеков", "today": 34, "yesterday": 36, "week": -6 },
+      { "label": "Количество гостей", "today": 34, "yesterday": 36, "week": -6 }
+    ]
+  }
+  
